@@ -1,4 +1,4 @@
-# 🏆 Mundial Simulador — Simulador da Copa do Mundo FIFA 2026
+# 🏆 Simulador da Copa do Mundo FIFA 2026
 
 Aplicação web completa e interativa para simulação da Copa do Mundo FIFA 2026, com prancheta tática 3D, histórico completo de confrontos diretos, simulador de mata-mata/grupos com súmulas dinâmicas em tempo real e integração com banco de dados na nuvem.
 
